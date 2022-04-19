@@ -1,0 +1,9 @@
+2022-04-18 00:24:20,483 INFO com.mv.app.MvApplication [restartedMain] Starting MvApplication using Java 15.0.1 on DESKTOP-KKA7VD1 with PID 16324 (C:\STS4\mv\bin\main started by Martins in C:\STS4\mv)
+2022-04-18 00:24:20,483 DEBUG com.mv.app.MvApplication [restartedMain] Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-18 00:24:20,484 INFO com.mv.app.MvApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-18 00:24:23,201 INFO com.mv.app.MvApplication [restartedMain] Started MvApplication in 2.872 seconds (JVM running for 451.942)
+2022-04-18 00:25:25,017 INFO com.mv.app.MvApplication [restartedMain] Starting MvApplication using Java 15.0.1 on DESKTOP-KKA7VD1 with PID 4868 (C:\STS4\mv\bin\main started by Martins in C:\STS4\mv)
+2022-04-18 00:25:25,022 DEBUG com.mv.app.MvApplication [restartedMain] Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-18 00:25:25,023 INFO com.mv.app.MvApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-18 00:25:36,490 INFO com.mv.app.MvApplication [restartedMain] Started MvApplication in 12.358 seconds (JVM running for 14.997)
+2022-04-18 00:26:28,554 INFO com.mv.app.controller.cliente.ClienteController [http-nio-8080-exec-8] Cliente com id2encontrado
